@@ -1,0 +1,21 @@
+body {
+    background: #22396a;
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: green;
+}
+.white {
+    color: white;
+}
+.red {
+    color: red;
+}
+.gap {
+    word-spacing: 25px;
+    text-align: center;
+}
+div {
+    text-align: left;
+}
