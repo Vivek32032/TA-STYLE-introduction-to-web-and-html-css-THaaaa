@@ -15,7 +15,9 @@ h2 {
 .gap {
     word-spacing: 25px;
     text-align: center;
+    background-color: #001542;
+    height: 30px;
 }
 div {
-    text-align: left;
+    text-align: left;  
 }
